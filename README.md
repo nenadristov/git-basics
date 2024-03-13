@@ -1,4 +1,4 @@
-# Git Baasics
+# Git Basics
 The repository will teach you th basic of version control for software development and how to use the popular technologies **git** and **Github**. There are no prerequisites but if you have some knowledge or experience in some programming language it would be beneficial.
 
 ## Contents
