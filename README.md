@@ -2,8 +2,8 @@
 The repository will teach you th basic of version control for software development and how to use the popular technologies **git** and **Github**. There are no prerequisites but if you have some knowledge or experience in some programming language it would be beneficial.
 
 ## Contents
-- What is source control
-- Types of Source control
+- [What is source control](content/what-is-source-control.md)
+- [Types of Source control](content/kinds-of-source-control.md)
 - What are repositories
 - Git vs Github
     - Downloading and installing git
