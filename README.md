@@ -4,18 +4,13 @@ The repository will teach you th basic of version control for software developme
 ## Contents
 - [What is source control](content/what-is-source-control.md)
 - [Types of Source control](content/kinds-of-source-control.md)
-- What are repositories
-- Git vs Github
-    - Downloading and installing git
-    - Creating Github profile
-- Creating Local repositories
-- Creating a repository on GitHub
-- Adding files to staging area
-- Saving / Committing your changes
-- What are branches
-- Working with branches
-- Merging
-- Publishing to remote repositories
-- Cloning Github Repositories
-- Getting he latest changes from a remote repos
-- Pull Requests and their use in software development
+- [What are repositories](content/what-is-repository.md#)
+- [Git vs Github](content/git-vs-github.md)
+- [Creating Local repositories](content/what-is-repository.md#2-local-and-remote-repositories)
+- [Adding files to staging area](content/what-is-repository.md#6-committing-changes)
+- [Saving / Committing your changes](content/what-is-repository.md#6-committing-changes)
+- [What are branches](content/what-is-repository.md#4-branching-and-merging)
+- [Publishing to remote repositories](content/what-is-repository.md#7-pushing-and-pulling-changes)
+- [Cloning Github Repositories](content/what-is-repository.md#5-cloning-a-repository)
+- [Getting he latest changes from a remote repos](content/what-is-repository.md#7-pushing-and-pulling-changes)
+- [Pull Requests and their use in software development](content/use-of-pr.md)
